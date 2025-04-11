@@ -1,0 +1,254 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    flex-direction: none;
+    box-sizing: 0px;
+    list-style: none;
+ }
+ .conteiner{
+    max-width: 1200px;
+    margin: auto;
+   }
+  
+   nav, ul, .li, a{
+    text-decoration: none;
+    display: flex;
+align-items: center;
+  gap: 128px;
+color: black;
+
+   }
+   nav, ul, li, a:hover{
+   color:rgba(222, 46, 84, 1);
+   
+   }
+   nav{
+    margin-top: 28px;
+    margin-bottom: 28px;
+   }
+.button{
+    width: 189px;
+height: 47px;
+border-radius: 8px;
+border-width: 2px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+color: black;
+background-color: white;
+border: 1px solid black;
+}
+.button:hover{
+ border: 2px solid rgba(222, 46, 84, 1);
+ color: rgba(222, 46, 84, 1) ;
+}
+.div{
+    background-image: url(image\ 4\ \(2\).png);
+background-repeat: no-repeat;
+height: 550px;
+background-size: cover;
+
+}
+.p{
+    width: 700px;
+height: 82.29444122314453px;
+top: 235.8px;
+left: 170px;
+font-family:'Open Sans';
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+letter-spacing: 0px;
+color: white;
+padding-top: 137px;
+padding-bottom: 48px;
+}
+.button2{
+    width: 220px;
+height: 47px;
+top: 367px;
+left: 170px;
+border-radius: 8px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+background: rgba(222, 46, 84, 0.8);
+color: white;
+border: 1px solid  rgba(222, 46, 84, 0.8);
+font-family: Open Sans Condensed;
+font-weight: 700;
+
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+
+.imgpp{
+    margin-left: 700px;
+    margin-top: -247px;
+}
+.h2{
+    width: 133px;
+height: 23.612384796142578px;
+top: 696.9px;
+left: 653px;
+font-family: 'Open Sans';
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+letter-spacing: 0px;
+margin: auto;
+margin-top: 66px;
+}
+.dd{
+    width: 67px;
+height: 29px;
+
+}
+.p2{
+    width: 600px;
+height: 96px;
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0px;
+
+}
+.card{
+    display: flex;
+    gap: 70px;
+justify-content: center;
+}
+.main{
+    margin-top: 30px;
+}
+.salom{
+    margin-top: 55px;
+}
+.p23{
+    width: 600px;
+height: 72px;
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0px;
+
+
+}
+.ddd{
+    width: 200px;
+height: 29px;
+font-family: 'Open Sans';
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+letter-spacing: 0px;
+
+}
+.heit{
+    flex-direction: row-reverse;
+    margin-top: 80px;
+}
+.h1{
+    width: 521px;
+height: 63px;
+font-family: Inter;
+font-weight: 600;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0px;
+text-align: center;
+margin: auto;
+padding-top: 64px;
+}
+
+.contact-section {
+    text-align: center;
+    padding: 50px 20px;
+    color: #000;
+    background: rgba(14, 180, 193, 1);
+margin-top: 210px;
+  }
+  
+  .contact-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  .contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
+  }
+  
+  .map-container {
+    flex: 1 1 400px;
+    max-width: 500px;
+  }
+  
+  .form-container {
+    flex: 1 1 400px;
+    max-width: 400px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding-right: 60px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 12px 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 12px;
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #27ae60;
+  }
+
+  .submit{
+    width: 430px;
+  }
+  .iframe{
+border-radius: 10px;
+
+height: 340px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background: rgba(34, 34, 34, 1);
+
+}
+.uk, .li2, .d{
+    color: white;
+}
+.footer{
+    padding: 24px;
+}
